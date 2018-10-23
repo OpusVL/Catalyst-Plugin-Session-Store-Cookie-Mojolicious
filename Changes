@@ -1,0 +1,5 @@
+Changes for Catalyst::Plugin::Session::Store::Cookie::Mojolicious
+
+{{ $NEXT }}
+
+  - Created module
